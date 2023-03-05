@@ -23,6 +23,7 @@ const HastaEkle = ({ hastalar, setHastalar,doktorlar }) => {
 
           <input
             id="text"
+            
             type="text"
             placeholder="Add Name"
             name="text"
